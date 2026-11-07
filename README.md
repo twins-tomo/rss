@@ -1,7 +1,7 @@
 # gundam-rss
 
 GUNDAM Official Website（https://gundam-official.com/news）の非公式 RSS フィード。
-GitHub Pages で配信し、GitHub Actions が毎日自動更新する。
+GitHub Pages で配信し、GitHub Actions が1時間に1回自動更新する。
 
 フィード URL: `https://<GitHubユーザー名>.github.io/gundam-rss/gundam_news.xml`
 
@@ -18,7 +18,7 @@ GitHub Pages で配信し、GitHub Actions が毎日自動更新する。
    「Update Gundam News Feed」を **Run workflow** で手動実行できる。
 
 ## メモ
-- 更新スケジュール: 毎日 09:00 JST（Actions の仕様で遅れる場合がある）
+- 更新スケジュール: 1時間に1回（毎時17分ごろ、Actions の仕様で遅れる場合がある）。新着が無ければコミットは作られない
 - フィードは最新 54 件（3ページ分）。生成方法は `generate_rss.py` を参照
 - リポジトリは Public が必要（無料プランの GitHub Pages の制約）
 - フィードの中身は公式サイトで公開されているニュースのタイトルとリンクのみ
