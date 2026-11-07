@@ -2,8 +2,8 @@ name: Update Gundam News Feed
 
 on:
   schedule:
-    # 毎日 09:00 JST (00:00 UTC) に更新。GitHub の都合で数分〜数十分遅れることがある
-    - cron: "0 0 * * *"
+    # 1時間に1回更新 (毎時17分)。GitHub の都合で数分〜数十分遅れることがある
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
