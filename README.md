@@ -7,7 +7,7 @@ GitHub Pages で配信し、GitHub Actions が1時間に1回自動更新する�
 リポジトリ: https://github.com/twins-tomo/rss
 
 ## 現在の状態（2026-11-07 セットアップ完了）
-- リポジトリ `twins-tomo/rss`（Public。当初の `gundam-rss` からリネーム）で運用中
+- リポジトリ `twins-tomo/rss`（Public）で運用中
 - Settings → Pages は Deploy from a branch / main / (root) で公開
 - 配信が `Content-Type: application/xml` でインライン表示されることを確認済み（最新54件）
 - RSS リーダー（Firefox の Livemarks）にフィード URL を登録し、表示できることを確認済み
