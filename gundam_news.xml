@@ -5,7 +5,7 @@
 <link>https://gundam-official.com/news</link>
 <description>アニメ・映画・商品・イベントなど、ガンダムに関する最新情報（GUNDAM Official Website ニュースの非公式 RSS フィード）</description>
 <language>ja</language>
-<lastBuildDate>Fri, 13 Nov 2026 02:14:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 02:57:13 GMT</lastBuildDate>
 <atom:link href="https://twins-tomo.github.io/rss/gundam_news.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>「機動戦士ガンダム ならぶんです。ジム」ガシャポンオンラインにて予約スタート！武器やポーズ違いの「ジム」3種に「ジムII」「ジムIII」もラインナップ！</title>
@@ -93,6 +93,16 @@
 <category>トイ・グッズ</category>
 <category>SEED</category>
 <description>トイ・グッズ / SEED - https://gundam-official.com/media/944538c321113f3b626042eacc614d97/944538c321113f3b626042eacc614d97.jpg</description>
+</item>
+<item>
+<title>展覧会「スタジオぬえの50年」埼玉・角川武蔵野ミュージアムにて2027年3月6日より開催決定！加藤直之、高千穂 遙、松崎健一、宮武一貴、安彦良和が出演するスペシャルトークイベントも実施！</title>
+<link>https://gundam-official.com/news/yr9nl060fhekk8s0t1vx5wkg</link>
+<guid isPermaLink="true">https://gundam-official.com/news/yr9nl060fhekk8s0t1vx5wkg</guid>
+<pubDate>Thu, 12 Nov 2026 03:00:00 GMT</pubDate>
+<category>イベント</category>
+<category>すべて（その他）</category>
+<category>0083</category>
+<description>イベント / すべて（その他） / 0083 - https://gundam-official.com/media/b71d34b754c5dbf775d5a31fc3401d61/b71d34b754c5dbf775d5a31fc3401d61.jpg</description>
 </item>
 <item>
 <title>ガンプラ「HG ジム・スナイパー」「HG ジム・スナイパーII（リド・ウォルフ機）」「HG ジム・スナイパーII ホワイト・ディンゴ隊仕様」の追加予約が本日11月12日11時よりスタート！</title>
@@ -545,17 +555,6 @@
 <category>0083</category>
 <category>すべて（その他）</category>
 <description>カード / ΖΖ / 0083 / すべて（その他） - https://gundam-official.com/media/3b161e7b87c25d635f50389adb0ce23c/3b161e7b87c25d635f50389adb0ce23c.jpg</description>
-</item>
-<item>
-<title>「ガンダムカードゲーム」ブースターパック「Stardust Trails[GD06]」10月31日発売！</title>
-<link>https://gundam-official.com/news/kgakik6bh8t5rjgqvp0kj9ls</link>
-<guid isPermaLink="true">https://gundam-official.com/news/kgakik6bh8t5rjgqvp0kj9ls</guid>
-<pubDate>Fri, 30 Oct 2026 10:45:00 GMT</pubDate>
-<category>カード</category>
-<category>すべて（その他）</category>
-<category>ΖΖ</category>
-<category>0083</category>
-<description>カード / すべて（その他） / ΖΖ / 0083 - https://gundam-official.com/media/07fbb9e5002f50b2fcf1344c835b0762/07fbb9e5002f50b2fcf1344c835b0762.jpg</description>
 </item>
 </channel>
 </rss>
