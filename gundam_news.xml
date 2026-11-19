@@ -5,8 +5,17 @@
 <link>https://gundam-official.com/news</link>
 <description>アニメ・映画・商品・イベントなど、ガンダムに関する最新情報（GUNDAM Official Website ニュースの非公式 RSS フィード）</description>
 <language>ja</language>
-<lastBuildDate>Thu, 19 Nov 2026 10:19:03 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 12:05:43 GMT</lastBuildDate>
 <atom:link href="https://twins-tomo.github.io/rss/gundam_news.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>「『機動戦士ガンダムSEED FREEDOM』シネマ・コンサートツアー」がタイ・バンコクにて開催決定！</title>
+<link>https://gundam-official.com/seed/freedom/news/item.php?id=xyrvlyp3eddkgjtt5swk1kfl</link>
+<guid isPermaLink="true">https://gundam-official.com/seed/freedom/news/item.php?id=xyrvlyp3eddkgjtt5swk1kfl</guid>
+<pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+<category>イベント</category>
+<category>SEED</category>
+<description>イベント / SEED - https://gundam-official.com/media/6c4e539fb2e788ff1305b7c131271fae/6c4e539fb2e788ff1305b7c131271fae.jpg</description>
+</item>
 <item>
 <title>森本がーにゃのSDガンダムいんふぉ vol.741「キャラクターの魅力いっぱいの造形！メガハウス11月の新作」</title>
 <link>https://gundam-official.com/news/tknqmg6g6oy7tc754bg0tkdx</link>
@@ -533,15 +542,6 @@
 <category>話題・キャンペーン</category>
 <category>すべて（その他）</category>
 <description>イベント / 話題・キャンペーン / すべて（その他） - https://gundam-official.com/media/356635395e963111ec8e9b9b6b673c09/356635395e963111ec8e9b9b6b673c09.jpg</description>
-</item>
-<item>
-<title>参戦ユニットが1111体を突破！記念プレゼント＆お得ダイヤパックを販売開始！ジェネレーションタワー「SOUTH TOWER」開催中！</title>
-<link>https://gundam-official.com/news/vwc2qmfohnltll3slyvi2jq4</link>
-<guid isPermaLink="true">https://gundam-official.com/news/vwc2qmfohnltll3slyvi2jq4</guid>
-<pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
-<category>ゲーム・アプリ</category>
-<category>すべて（その他）</category>
-<description>ゲーム・アプリ / すべて（その他） - https://gundam-official.com/media/524b7497fe296e77b9a18a74f3e730f4/524b7497fe296e77b9a18a74f3e730f4.jpg</description>
 </item>
 </channel>
 </rss>
